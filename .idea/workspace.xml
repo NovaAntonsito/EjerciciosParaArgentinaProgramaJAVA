@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f7e4b15-45a7-45ff-b2ef-cc3687fd7719" name="Changes" comment="Ejercicios para Argentina Programa en java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condicionales-Secuenciales-Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionales/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosClase2/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosClase2/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosClase2/Ejercicio3.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f7e4b15-45a7-45ff-b2ef-cc3687fd7719" name="Changes" comment="gitIgnore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +43,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679081253033</updated>
-      <workItem from="1679081255629" duration="6236000" />
+      <workItem from="1679081255629" duration="6708000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicios para Argentina Programa en java">
+      <created>1679088025639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679088025639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitIgnore">
+      <created>1679088109289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679088109289</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios para Argentina Programa en java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios para Argentina Programa en java" />
+    <MESSAGE value="gitIgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitIgnore" />
   </component>
 </project>
