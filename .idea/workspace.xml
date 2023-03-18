@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f7e4b15-45a7-45ff-b2ef-cc3687fd7719" name="Changes" comment="gitIgnore" />
+    <list default="true" id="0f7e4b15-45a7-45ff-b2ef-cc3687fd7719" name="Changes" comment="Otros ejercicios mas">
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repetitivas/Ejercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,14 +41,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679081253033</updated>
-      <workItem from="1679081255629" duration="6708000" />
+      <workItem from="1679081255629" duration="8001000" />
+      <workItem from="1679096818624" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios para Argentina Programa en java">
       <created>1679088025639</created>
@@ -59,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679088109289</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Otros ejercicios mas">
+      <created>1679088640779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679088640779</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Otros ejercicios mas">
+      <created>1679088658731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679088658731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios para Argentina Programa en java" />
     <MESSAGE value="gitIgnore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitIgnore" />
+    <MESSAGE value="Otros ejercicios mas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Otros ejercicios mas" />
   </component>
 </project>
