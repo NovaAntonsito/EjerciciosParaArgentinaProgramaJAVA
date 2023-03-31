@@ -1,6 +1,3 @@
-
-package Condicionales;
-
 // Importamos la clase JOptionPane para poder utilizar sus métodos
 import javax.swing.JOptionPane;
 

@@ -1,7 +1,4 @@
-package Condicionales;
-
 import javax.swing.*;
-
 
 public class Ejercicio9 {
     /*9)	Pedir 3 números por pantalla al usuario. Devolver un mensaje que incluya la suma de los 3 números y

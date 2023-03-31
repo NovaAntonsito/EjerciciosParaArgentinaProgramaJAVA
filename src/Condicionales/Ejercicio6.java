@@ -1,17 +1,21 @@
-package Condicionales;
-
-import java.util.Scanner;
+import javax.swing.*;
 
 public class Ejercicio6 {
-    public static void main(String[] args){
-        double PI = 3.1416; // Valor de PI
-        Scanner sc = new Scanner(System.in);
 
-        System.out.print("Introduce el radio de la circunferencia: ");
-        double radio = sc.nextDouble();
+    /*6)	Elaborar un programa que simule el inicio de sesión a un sistema. Si el usuario es: ”ADMIN” y
+     la clave “1234” escribir el siguiente mensaje en pantalla “ACCESO PERMITIDO” caso contrario mostrar el mensaje “ACCESO DENEGADO”.*/
 
-        double longitud = 2 * PI * radio;
+    public static void main(String[] args) {
+        // Solicitamos al usuario que ingrese su nombre de usuario y contraseña
+        String usuario = JOptionPane.showInputDialog(null, "Ingrese su nombre de usuario:");
 
-        System.out.println("La longitud de la circunferencia de radio " + radio + " es " + longitud);
+        String contrasena = JOptionPane.showInputDialog(null, "Ingrese su contraseña:");
+
+        // Verificamos si el usuario y la contraseña son correctos
+        if (usuario.equals("ADMIN") && contrasena.equals("1234")) {
+            JOptionPane.showMessageDialog(null, "ACCESO PERMITIDO");
+        } else {
+            JOptionPane.showMessageDialog(null, "ACCESO DENEGADO");
+        }
     }
 }

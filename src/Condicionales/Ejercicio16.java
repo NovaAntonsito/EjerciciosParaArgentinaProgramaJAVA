@@ -1,4 +1,3 @@
-package Condicionales;
 import javax.swing.JOptionPane;
 public class Ejercicio16 {
 

@@ -1,32 +1,28 @@
-package Condicionales;
+import javax.swing.*;
 
-import java.util.Scanner;
-
-/*
-* ⦁	Escriba un programa que acepte el número de identificación de un empleado,
-* el salario por hora del empleado y el total de horas trabajadas en un mes.
-* Imprima la identificación y el salario del empleado de un mes en particular.
-* */
 public class Ejercicio2 {
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int idEmpleado, hours;
-        double salario;
+        /*2)Realizar un programa que:
+                a.	Pida 3 números que representaran notas de alumnos
+                b.	Calcule el promedio de los números
+                c.	Si el promedio es mayor o igual a 7, muestre por pantalla el mensaje 'APROBADO', caso contrario, mostrar el mensaje 'DESAPROBADO'.
 
-        System.out.println("Ingrese el id del empleado");
-        idEmpleado = sc.nextInt();
-        System.out.println("Ingrese el salario por hora");
-        salario = sc.nextDouble();
-        System.out.println("Ingrese las horas trabajadas en el mes");
-        hours = sc.nextInt();
-        sc.close();
+         */
+        //Ingreso y parseo de variables
+        double nota1=Double.parseDouble(JOptionPane.showInputDialog("Ingrese la primer nota",null));
+        double nota2=Double.parseDouble(JOptionPane.showInputDialog("Ingrese la segunda nota",null));
+        double nota3=Double.parseDouble(JOptionPane.showInputDialog("Ingrese la tercer nota",null));
+        //Calculo el promedio
+        double promedio=(nota1+nota2+nota3)/3;
 
-        double salarioMensual = salario * hours;
+        //Condicional
+        if(promedio>=7){
+            JOptionPane.showMessageDialog(null,"APROBADO CON "+promedio);
+        }else{
+            JOptionPane.showMessageDialog(null,"DESAPROBADO CON "+promedio);
 
-
-        System.out.println("El trabajador con id " +
-                idEmpleado + " sus horas trabajadas en el mes son "
-                +hours+ " horas le corresponde un salario de "+ salarioMensual );
+        }
 
     }
 }
